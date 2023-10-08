@@ -40,12 +40,12 @@ PRODUCT_PACKAGES += \
    and then, you will be able to download what you want. 
    You might save time in finding the right one by making use of the search keyword below. 
 	- MdecService.apk : "MdecService"
-	- VoiceNote_5.0.apk : "Voice Recorder"
-	- SamsungMessages.apk : "Messaging"
 	- SamsungCalendar.apk : "SamsungCalendar"
-	- KidsHome.apk : "KidsHome"
 	- VoiceNote_5.0.apk : "Voice Recorder"
 	- SBrowser_15.0_Removable.apk : "SBrowser"
+	- VoiceNote_5.0.apk : "Voice Recorder"
+	- SamsungMessages.apk : "Messaging"
+	- KidsHome.apk : "KidsHome"
 	- Notes40_Removable.apk : "Samsung Notes"
 	- Fmm.apk : "FMM"
 	- Notes40_Removable.apk : "Samsung Notes"
