@@ -19,3 +19,6 @@ the problems which may result by upgrading your kernel.
 
 ## File needs unzipping
      tools/lib64/libart.zip
+
+## Download the file automatically unzipped
+    git clone /https://gitlab.com/MrFluffyOven/android_kernel_samsung_gta8wifi.git -b twrp-12.1
